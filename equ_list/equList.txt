@@ -1,0 +1,15 @@
+G*F=S;A*J=T;P-F=U;O-S=V;P-V=W;M-A=X;G+V=Y;E+W=Z;P*L
+H+I=S;Q+H=T;C+M=U;H/U=V;M*L=W;L+W=X;B+A=Y;Y/F=Z;A+D
+J/R=S;F*I=T;B-N=U;G*C=V;R+P=W;Q*U=X;G+R=Y;G-U=Z;K+W
+Q/E=S;F-H=T;J+I=U;E+A=V;F/L=W;B+T=X;P+B=Y;S*U=Z;X/I
+F+G=S;D+N=T;I/G=U;L*M=V;N-P=W;P-I=X;E*I=Y;C-C=Z;R+T
+N-L=S;A-H=T;N+D=U;A/R=V;C-G=W;B-F=X;I/H=Y;J-J=Z;F+U
+K+B=S;D+I=T;B/C=U;H+G=V;Q/L=W;J-A=X;T+W=Y;M/O=Z;N+Y
+B+I=S;P-L=T;C/F=U;K+T=V;R-V=W;I*G=X;G*O=Y;C*J=Z;G+V
+A/A=S;D+C=T;F-C=U;Q/T=V;E-O=W;Q*D=X;C-L=Y;G-T=Z;W+Y
+C/N=S;E-L=T;L+Q=U;L/G=V;K-I=W;S+F=X;L*X=Y;M/D=Z;T+K
+P*H=S;K-L=T;D*P=U;S+A=V;O-P=W;H/M=X;R+T=Y;H/V=Z;E+T
+I+O=S;F+F=T;J/B=U;B-L=V;L-V=W;V/W=X;S/G=Y;D*P=Z;X*W
+K+G=S;B+J=T;H/L=U;O*B=V;D*H=W;R+T=X;I-T=Y;T-C=Z;Z+E
+B-Q=S;F*E=T;J*G=U;R+D=V;T-P=W;R*K=X;R-M=Y;S*K=Z;Z/C
+Q/Q=S;C+O=T;G/M=U;M/D=V;H-L=W;G-K=X;T+X=Y;C/M=Z;B-Y
